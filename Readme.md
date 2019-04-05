@@ -1,16 +1,20 @@
 Project 3
+-------------------------------------------------------------
 
 My Topic: Unity Shader: Burning Shader
 
 This Shader will make burning special effect when enemy dies.
 
-![image](https://github.com/dgm6410/research-project-3-chenlifan250/new/master/images/monalisa1.jpg)
-![image](https://github.com/dgm6410/research-project-3-chenlifan250/new/master/images/monalisa2.jpg)
-![image](https://github.com/dgm6410/research-project-3-chenlifan250/new/master/images/monalisa3.jpg)
+![](https://github.com/dgm6410/research-project-3-chenlifan250/raw/master/image/monalisa1.jpg)
+
+![](https://github.com/dgm6410/research-project-3-chenlifan250/raw/master/image/monalisa2.jpg)
+
+![](https://github.com/dgm6410/research-project-3-chenlifan250/raw/master/image/monalisa3.jpg)
 
 -------------------------------------------------------------
 DEMO HERE:
-https://dgm6410.github.io/research-project-3-chenlifan250/demo/index
+-------------------------------------------------------------
+Link: https://dgm6410.github.io/research-project-3-chenlifan250/demo/index
 
 Game Background:
   You, Tom, are a secret agent, and you are executing a mission. Recently, a criminal gang made lots of fake paintings for
@@ -23,9 +27,11 @@ Game Process:
 
 Game Instruction:
   Simple click mouse to burn.
+  
 -------------------------------------------------------------
 
 List of Content:
+-------------------------------------------------------------
 - Source Code with comments
 - Tech Blog (On process) 
 - Demo(webgl)
