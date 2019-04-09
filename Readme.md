@@ -74,3 +74,10 @@ _EdgeColor("Border Color", Color) = (1,1,1,1)
 if(cutout - _Threshold < _EdgeLength)
     return _EdgeColor;
 ~~~
+
+### 5. Make it animate
+To make the burning effect animate actually is to set the threshold dynamically. I set the value of threshold in Update() function in C# script, which binds to the target object. This script will be trigger once the mouse clicked on it.
+~~~
+burnAmounting += Time.deltaTime * burningSpeed;
+material.GetComponent<Renderer>().material.SetFloat("_BurnAmount", burnAmounting);
+~~~
