@@ -33,7 +33,7 @@ Link: https://dgm6410.github.io/research-project-3-chenlifan250/demo/index
 List of Content:
 -------------------------------------------------------------
 - Source Code with comments
-- Tech Blog (On process) 
+- Tech Blog
 - Demo(webgl)
    (https://dgm6410.github.io/research-project-3-chenlifan250/demo/index)
 
